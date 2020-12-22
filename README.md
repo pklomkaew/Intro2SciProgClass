@@ -1,7 +1,7 @@
 # Intro2SciProgClass
-Homeworks, projects, and in-class assignments from SDS 322 class done
+Homeworks, projects, and in-class assignments from Introduction to Scientific Programming class (SDS 322, taught by instructors at TACC- Texas Advanced Computing Center)
 
-All codes were written on Vim text editor using high performance computer at TACC (Texas Advanced Computing Center)
+All codes were written on Vim text editor using high performance computer at TACC
 
 
 -Final project (C++) with report: Disease propagation SIR model and exploring social distancing and Herd Immunity 
