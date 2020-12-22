@@ -16,3 +16,7 @@ https://colab.research.google.com/drive/1UXOPEO1M3gp0L7WvjqTtkFAdJdtb-Slm?authus
 
 
 -Some other selected projects on C++ and FORTRAN are also posted as samples from the class.
+
+
+Also: check out my TACC Taco Award for my active class participation
+https://badgr.com/public/assertions/9YbzCUieSoiyvM5J22P8Sw?identity__email=pklomkaew@utexas.edu
